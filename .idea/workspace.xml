@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b9174fa-370a-4dca-917d-1de76cf9e5e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Speedometer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/Car.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +23,7 @@
   <component name="ProjectId" id="1SsF1jTuRWpsAON0THIddnVUumz" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../projet_2/nantes-0919-php-la-cahuitre" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../symphony" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -53,7 +53,9 @@
       <workItem from="1573548013413" duration="1445000" />
       <workItem from="1573552302063" duration="2443000" />
       <workItem from="1574268320254" duration="653000" />
-      <workItem from="1574285126640" duration="1057000" />
+      <workItem from="1574285126640" duration="1837000" />
+      <workItem from="1574334037762" duration="111000" />
+      <workItem from="1574677713660" duration="1896000" />
     </task>
     <servers />
   </component>

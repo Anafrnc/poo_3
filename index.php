@@ -1,15 +1,17 @@
 <?php
 
 require_once 'Vehicle.php';
-require_once 'Bicycle.php';
-require_once 'Car.php';
+//require_once 'Bicycle.php';
+//require_once 'Car.php';
 require_once 'Truck.php';
 require_once 'HighWay.php';
 require_once 'MotorWay.php';
 require_once 'PedestrianWay.php';
 require_once 'ResidentialWay.php';
+require_once 'Speedometer.php';
+require_once 'LightableInterface.php';
 
-$twingo = new Car('red', 4, 'fuel');
+/*$twingo = new Car('red', 4, 'fuel');
 $bicycle = new Bicycle('blue', 1);
 $bicycleWay = new MotorWay();
 
@@ -27,5 +29,7 @@ try{
 }finally{
     echo "Ma voiture roule comme un donnut";
 }
+*/
 
+var_dump(Speedometer::convertKmToMiles(10));
 
